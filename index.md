@@ -3,6 +3,8 @@ RStudio Binder test run
 Mik Black
 12 Feb 2018
 
+Run binder container from: <https://mybinder.org/>
+
 ``` r
 # ggplot2 examples
 library(ggplot2)

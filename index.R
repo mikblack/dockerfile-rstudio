@@ -5,6 +5,8 @@
 #' date: 12 Feb 2018
 #' ---
 
+#' Run binder container from: https://mybinder.org/
+
 # ggplot2 examples
 library(ggplot2)
 
